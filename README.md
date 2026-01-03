@@ -3,7 +3,6 @@
 A beautiful, feature-rich movie discovery application built with React, Redux, and Firebase. Browse thousands of movies, watch trailers, read reviews, and manage your watchlist.
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://react--login-4c527.web.app/home)
-[![App link](https://img.shields.io/badge/demo-live-brightgreen)]([https://react--login-4c527.web.app/home](https://drive.google.com/file/d/1sHLmmVamVnzMIkgy7dm24UvLO79FY3Lm/view?usp=drive_link))
 [![React](https://img.shields.io/badge/React-18.x-blue)](https://reactjs.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-Hosting-orange)](https://firebase.google.com/)
 [![TMDB API](https://img.shields.io/badge/API-TMDB-01d277)](https://www.themoviedb.org/)
@@ -11,6 +10,7 @@ A beautiful, feature-rich movie discovery application built with React, Redux, a
 ## 🌟 Live Demo
 
 **[View Live Application](https://react--login-4c527.web.app/home)**
+**[Android Application](https://drive.google.com/file/d/1sHLmmVamVnzMIkgy7dm24UvLO79FY3Lm/view?usp=drive_link)**
 
 ## ✨ Features
 
