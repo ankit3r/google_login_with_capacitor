@@ -75,13 +75,19 @@ A beautiful, feature-rich movie discovery application built with React, Redux, a
 #### Quick Build Commands
 
 ```bash
-# 1. Build React app
+# Step 1: Install dependencies (if not done)
+npm install
+
+# Step 2: Build React app
 npm run build
 
-# 2. Sync to Android (copies build files + updates plugins)
+# Step 3: Add Android platform (only needed once)
+npx cap add android
+
+# Step 4: Sync to Android
 npx cap sync android
 
-# 3. Open Android Studio
+# Step 5: Open Android Studio
 npx cap open android
 
 
