@@ -70,6 +70,21 @@ A beautiful, feature-rich movie discovery application built with React, Redux, a
 - **Responsive Design** - Mobile-first approach
 - **Animations** - Smooth transitions
 
+## 🏗️ Building Android App
+
+#### Quick Build Commands
+
+```bash
+# 1. Build React app
+npm run build
+
+# 2. Sync to Android (copies build files + updates plugins)
+npx cap sync android
+
+# 3. Open Android Studio
+npx cap open android
+
+
 ## 📦 Installation
 
 ### Prerequisites
