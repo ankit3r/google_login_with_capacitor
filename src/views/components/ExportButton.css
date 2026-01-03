@@ -1,0 +1,29 @@
+.export-btn {
+  background: linear-gradient(135deg, #5b45ff 0%, #3b38ef 100%);
+  color: white;
+  border: none;
+  padding: 12px 30px;
+  border-radius: 25px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 4px 15px rgba(17, 153, 142, 0.3);
+  transition: all 0.3s ease;
+  margin: 20px 0;
+}
+
+.export-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(17, 153, 142, 0.4);
+}
+
+.export-btn:active {
+  transform: scale(0.98);
+}
+
+@media (max-width: 768px) {
+  .export-btn {
+    width: 100%;
+    max-width: 300px;
+  }
+}
